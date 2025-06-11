@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Bernardo (Husky34Dev)
 
-<!--
-**Husky34Dev/Husky34Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious mind with a background in web app development and a specialization in Big Data & AI. I enjoy building smart systems that blend language models with real-world data, especially through tools like FastAPI, MCP, SQLite, and Hugging Face.
 
-Here are some ideas to get you started:
+Currently exploring the intersection between LLMs and structured reasoning — crafting agents that don't just chat, but *act*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You’ll often find me hacking on:
+- Function-calling agents with real-time tool use
+- Custom pipelines using Groq, Ollama, or OpenAI
+- Fast, minimal backends that get out of the way
+
+I’m always learning, always experimenting — and always refactoring.
+
+---
+> *"Build smart, stay curious."*
