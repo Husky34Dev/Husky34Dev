@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Bernardo (Husky34Dev)
+# Bernardo Martínez (Husky34Dev)
 
-Curious mind with a background in web app development and a specialization in Big Data & AI. I enjoy building smart systems that blend language models with real-world data, especially through tools like FastAPI, MCP, SQLite, and Hugging Face.
+Developer with a background in web app development and a specialization in Big Data & AI. I build smart systems that combine language models with structured data, using tools like FastAPI, MCP, SQLite, and Hugging Face.
 
-Currently exploring the intersection between LLMs and structured reasoning — crafting agents that don't just chat, but *act*.
+I focus on crafting LLM agents that go beyond chat — agents that reason, act, and interact with real APIs and databases.
 
-You’ll often find me hacking on:
-- Function-calling agents with real-time tool use
-- Custom pipelines using Groq, Ollama, or OpenAI
-- Fast, minimal backends that get out of the way
+You’ll usually find me working on:
+- Function-calling agents with tool orchestration
+- FastAPI + MCP setups for data-backed interactions
+- Lightweight, low-latency systems using Groq, Ollama, or OpenAI
 
-I’m always learning, always experimenting — and always refactoring.
+Always learning. Always testing. Always keeping it simple.
 
 ---
-> *"Build smart, stay curious."*
+*“Build smart, stay curious.”*
